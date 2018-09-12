@@ -26,7 +26,7 @@ end
 
 ## Author
 
-- [Jonathan VUKOVICH TRIBOUHARET](https://github.com/jonathantribouharet) ([@johntribouharet](https://twitter.com/johnvuko))
+- [Jonathan VUKOVICH TRIBOUHARET](https://github.com/jonathantribouharet) ([@johnvuko](https://twitter.com/johnvuko))
 
 ## License
 
