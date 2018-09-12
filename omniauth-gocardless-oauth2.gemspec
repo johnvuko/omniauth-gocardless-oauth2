@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
 	gem.version = OmniAuth::Gocardless::VERSION
 	gem.files = `git ls-files`.split("\n")
 	gem.require_paths = ["lib"]
-	gem.authors = ['Jonathan TRIBOUHARET']
+	gem.authors = ['Jonathan VUKOVICH TRIBOUHARET']
 	gem.email = 'jonathan.tribouharet@gmail.com'
 	gem.license = 'MIT'
 	gem.platform = Gem::Platform::RUBY
