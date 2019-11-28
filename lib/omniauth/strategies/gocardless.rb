@@ -7,7 +7,7 @@ module OmniAuth
 			option :name, "gocardless"
 
 			option :client_options, {
-				:site => "https://connect.gocardless.com",
+				:site => "https://connect-sandbox.gocardless.com",
 		        :authorize_url => '/oauth/authorize',
 		        :token_url => '/oauth/access_token'
 			}
